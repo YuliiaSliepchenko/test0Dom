@@ -1,2 +1,4 @@
+
+
 const message ="NodeJS in amazing!";
-console.log(message); np
+console.log(message); 

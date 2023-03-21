@@ -4,7 +4,8 @@
   "description": "history",
   "main": "index.js",
   "scripts": {
-    "test": "console.log(message)"
+    "test": "console.log(message)",
+    "build":"webpack"
   },
   "author": "Julic",
   "license": "ISC",
