@@ -383,5 +383,12 @@
 // });
 
 
-
+// setTimeut(() => {
+//     console.log('setTimeut')
+// },0)
+// for(let i=0; i<1000;i++){
+//     console.log('i:>>',i)
+// };
     
+const today =new Date(2025,3,12,16,54,01)
+console.log(today)
